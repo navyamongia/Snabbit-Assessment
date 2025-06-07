@@ -58,18 +58,16 @@ A modern, responsive dashboard interface for the Home Assistant Security System 
 2. **Install dependencies**
    \`\`\`bash
    npm install
-  
    \`\`\`
 
 3. **Start development server**
    \`\`\`bash
    npm run dev
-   
    \`\`\`
 
 4. **Open in browser**
    \`\`\`
-   http://localhost:1573
+   http://localhost:5173
    \`\`\`
 
 
